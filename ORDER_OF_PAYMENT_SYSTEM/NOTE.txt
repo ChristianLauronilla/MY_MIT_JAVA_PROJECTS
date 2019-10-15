@@ -1,0 +1,16 @@
+CONFIG:
+database name "oms" (without qoute)
+then import sqlfile located at the project folder
+dont forget sa buildpath katong servlet.api remove first then
+"Add External Jars" locate your servlet.api makita na sa "C:Apache Tomcat/lib/serverlet.api"
+
+ADMIN TANAN MAKAACCESS SA PAGE -> REGION DIRECTOR
+USERNAME : 1
+PASSWORD : 1
+
+USER ONLY ACCESS NEW ORDER PAGE -> ENCODER
+USERNAME : Encoder1
+PASSWORD : 1234
+
+DELETA NI KAY BASIN MASAKPAN KA NI SIR ANI............
+CHANIX - :) 
